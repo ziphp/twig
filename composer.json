@@ -16,7 +16,7 @@
     "require": {
         "php": ">=7.4",
         "ziphp/ziphp": ">=5.0.0",
-        "twig/twig": "~3.8.0"
+        "twig/twig": "~3.9"
     },
     "require-dev": {
         "cweagans/composer-patches": "^1.7",
